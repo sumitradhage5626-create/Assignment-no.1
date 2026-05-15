@@ -33,3 +33,27 @@ print()
 set_value = {1, 2, 3, 4, 4, 5}
 print("Set value:", set_value)
 print("Type:", type(set_value))
+
+
+output 
+
+Integer value: 10
+Type: <class 'int'>
+
+Float value: 10.5
+Type: <class 'float'>
+
+String value: Hello Python
+Type: <class 'str'>
+
+Boolean value: True
+Type: <class 'bool'>
+
+List value: [1, 2, 3, 'Python', 5.5]
+Type: <class 'list'>
+
+Dictionary value: {'Name': 'vaishnavi', 'Age': 18, 'Course': 'computer Science'}
+Type: <class 'dict'>
+
+Set value: {1, 2, 3, 4, 5}
+Type: <class 'set'>
